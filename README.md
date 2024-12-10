@@ -59,7 +59,7 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 
 <div align=center>
 	</a>
-	  <img src="https://komarev.com/ghpvc/?username=marialaura-b&style=for-the-badge&color=red"></a>
+	  <img src="https://komarev.com/ghpvc/?username=marialauraborges&style=for-the-badge&color=red"></a>
 	</a>
 </div>
 
