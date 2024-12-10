@@ -10,8 +10,9 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
   <a href="https://github.com/marialaura-b/my-exercises1">
     <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/image2.png" width="265"/>
   </a>
-  
-
+  <a href="https://github.com/marialaura-b/TicTacToe">
+    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/game.png" width="265"/>
+  </a>
 </p>
 
 
@@ -61,70 +62,6 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 	  <img src="https://komarev.com/ghpvc/?username=marialaura-b&style=for-the-badge&color=red"></a>
 	</a>
 </div>
-
-<!-- <img src="https://img.shields.io/badge/-Assembly-lightgrey?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF" alt="Assembly">
-<img src="https://img.shields.io/badge/Prolog-AADD?style=for-the-badge" alt="Prolog">
-<img src="https://img.shields.io/badge/Haskell-AA00DD?style=for-the-badge&logo=Haskell&logoColor=FFFFFF" alt="Haskell"> 
-
-
-<img src="rainbow_strip.png">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### Maria Laura's GitHub Stats 📈
-
-| **Metric**                | **Value**    |
-|---------------------------|--------------|
-| 🌟 **Total Stars Earned** | 200          |
-| 📅 **Total Commits (2024)** | 158          |
-| 🔗 **Total PRs**           | 36           |
-| 🐛 **Total Issues**        | 86           |
-| 📂 **Contributed to (last year)** | 3 |
-
----
-
-### 📌 **Most Used Languages**
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### 🏆 **GitHub Profile Score**
-
-![Your Profile Grade](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
-### 🔗 **Connect with Me**
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Visit%20my%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/marialaura-b)
-
----
-
-**Profile Views**:  
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=red&style=flat)
-
-</div>
-
-## 🔧 Skills & Technologies
-
-Here are some of the tools and technologies I often work with:
-
-- **Programming Languages**: Java, JavaScript, SQL.
-- **Frameworks & Libraries**: JUnit, Bootstrap, Spring Framework.
-- **Tools & Platforms**: Maven, Tomcat, CSS, HTML.
-
-## 📬 Let's Connect!
-
-Feel free to reach out — I’d love to collaborate or chat about exciting ideas:
-
-- **Email**: [marialaura.borgesfranchini@gmail.com](marialaura.borgesfranchini@gmail.com)
-- **LinkedIn**: [in/marialauraborges](www.linkedin.com/in/marialauraborges)
-  
----
-
 
 Made with ❤️ and lots of ☕ by marialaura-b.  
 
