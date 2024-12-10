@@ -6,6 +6,11 @@ I'm currently in the process of a career transition, enrolled in a Full Stack Pr
 
 Here, you’ll find projects that reflect my learning, creativity, and drive to grow as a developer.
 
+<p float="left" align="center">
+  <a href="https://github.com/marialaura-b/my-exercises1">
+    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/myexercises_teste.jpeg" width="265"/>
+  </a>
+
 ## **I've worked with...**
 
 <img src="rainbow_strip.png">
@@ -37,9 +42,9 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 	</tr>
 </table>
 
-<!--## **Github stats**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Nuno-Jesus&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Nuno-Jesus&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+## **Github stats**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=marialaura-b&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=marialaura-b&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/marialaura-b/">
@@ -49,7 +54,7 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 
 <div align=center>
 	</a>
-	  <img src="https://komarev.com/ghpvc/?username=Nuno-Jesus&style=for-the-badge&color=red"></a>
+	  <img src="https://komarev.com/ghpvc/?username=marialaura-b&style=for-the-badge&color=red"></a>
 	</a>
 </div>
 
