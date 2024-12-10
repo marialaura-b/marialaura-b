@@ -5,16 +5,60 @@ Hi there! I'm Maria Laura, a former chemistry lab professional who found a new p
 I'm currently in the process of a career transition, enrolled in a Full Stack Programming Bootcamp at @CodeforAll_, combining the problem-solving mindset I developed in the lab with the endless possibilities of coding and technology. 
 
 Here, you’ll find projects that reflect my learning, creativity, and drive to grow as a developer.
-## I've worked with...
+
+## **I've worked with...**
+
+<img src="rainbow_strip.png">
+
+<table style="background-color:#29343F;padding:30px;border-radius:7px;">
+	<tr>
+		<th> Languages </th>
+		<th> Frameworks </th>
+		<th> Tools </th>
+	</tr>
+	<tr>
+		<td align=center>
+			<img src="https://img.shields.io/badge/-Java-DD7700?style=for-the-badge" alt="Java">
+			<img src="https://img.shields.io/badge/HTML-FF751B?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" alt="HTML">
+			<img src="https://img.shields.io/badge/CSS-00DDFF?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="CSS">
+			<img src="https://img.shields.io/badge/Javascript-FFAB00?style=for-the-badge&logo=Javascript&logoColor=FFFFFF" alt="Javascript">
+		</td>
+		<td align=center>
+			<img src="https://img.shields.io/badge/Bootstrap-C635F8?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap">
+		</td>
+		<td align=center>
+			<img src="https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
+			<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
+			<img src="https://img.shields.io/badge/Visual Studio Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
+			<img src="https://img.shields.io/badge/IntelliJ-DD1100?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" alt="IntelliJ">
+			<img src="https://img.shields.io/badge/Slack-74D126?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack">
+			<img src="https://img.shields.io/badge/Discord-5053FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF" alt="Discord">
+		</td>
+	</tr>
+</table>
+
+<!--## **Github stats**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?style=for-the-badge&username=Nuno-Jesus&count_private=true&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=Nuno-Jesus&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-
-| **Languages** | **Frameworks** | **Tools** |
-|---------------|----------------|-----------|
-| ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat-square) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat-square) | | ![Flutter](https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white&style=flat-square) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white&style=flat-square) | ![VSCode](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square) |
-
+	<a href="https://www.linkedin.com/in/marialaura-b/">
+		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
+	</a>
 </div>
+
+<div align=center>
+	</a>
+	  <img src="https://komarev.com/ghpvc/?username=Nuno-Jesus&style=for-the-badge&color=red"></a>
+	</a>
+</div>
+
+<!-- <img src="https://img.shields.io/badge/-Assembly-lightgrey?style=for-the-badge&logo=AssemblyScript&logoColor=FFFFFF" alt="Assembly">
+<img src="https://img.shields.io/badge/Prolog-AADD?style=for-the-badge" alt="Prolog">
+<img src="https://img.shields.io/badge/Haskell-AA00DD?style=for-the-badge&logo=Haskell&logoColor=FFFFFF" alt="Haskell"> 
+
+
+<img src="rainbow_strip.png">
 
 ## 📊 GitHub Stats
 
