@@ -8,7 +8,7 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 
 <p float="left" align="center">
   <a href="https://github.com/marialaura-b/my-exercises1">
-    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/myexercises_teste.jpeg" width="265"/>
+    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/exercises.png" width="265"/>
   </a>
 
 ## **I've worked with...**
