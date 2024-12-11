@@ -1,10 +1,10 @@
-# Welcome to My GitHub! ✨
+# ✨ Welcome to My GitHub! 
 
-Hi there! I'm Maria Laura, a former chemistry lab professional who found a new passion in the world of programming. After years working in the intricate and fascinating field of chemical analysis, I decided to embark on an exciting journey into the tech industry. 🚀
+Hi there! I'm Maria Laura, a former chemistry lab professional who found a new passion in the world of programming. After years working in the fascinating field of chemical analysis, I decided to embark on an exciting journey into the tech industry. 🚀
 
 I'm currently in the process of a career transition, enrolled in a Full Stack Programming Bootcamp at @CodeforAll_, combining the problem-solving mindset I developed in the lab with the endless possibilities of coding and technology. 
 
-Here, you’ll find projects that reflect my learning, creativity, and drive to grow as a developer.
+Here, you’ll find projects that reflect my learning, creativity, and drive to grow as a developer:
 
 <p float="left" align="center">
   <a href="https://github.com/marialaura-b/my-exercises1">
