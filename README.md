@@ -8,10 +8,10 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 
 <p float="left" align="center">
   <a href="https://github.com/marialaura-b/my-exercises1">
-    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/image2.png" width="265"/>
+    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/image3.png" width="265"/>
   </a>
   <a href="https://github.com/marialaura-b/TicTacToe">
-    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/game.png" width="265"/>
+    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/game1.png" width="265"/>
   </a>
 </p>
 
