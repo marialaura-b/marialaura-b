@@ -52,7 +52,7 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?style=for-the-badge&username=marialaura-b&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-	<a href="https://www.linkedin.com/in/marialaura-b/">
+	<a href="https://www.linkedin.com/in/marialauraborges/">
 		<img src="https://img.shields.io/badge/-Visit my LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 	</a>
 </div>
