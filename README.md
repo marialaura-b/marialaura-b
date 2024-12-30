@@ -13,12 +13,14 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
   <a href="https://github.com/marialaura-b/TicTacToe">
     <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/game1.png" width="265"/>
   </a>
+	<a href="https://github.com/lfmramos/app-goodneighbours">
+    <img src="https://github.com/marialaura-b/marialaura-b/blob/main/resources/image4.png" width="265"/>
+  </a>
 </p>
 
 
 ## **I've worked with...**
 
-<img src="rainbow_strip.png">
 
 <table style="background-color:#29343F;padding:30px;border-radius:7px;">
 	<tr>
@@ -67,7 +69,7 @@ Made with ❤️ and lots of ☕ by marialaura-b.
 
 <!--
 **marialaura-b/marialaura-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="rainbow_strip.png">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
