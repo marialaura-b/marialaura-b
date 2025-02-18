@@ -32,19 +32,19 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 		<td align=center>
 			<img src="https://img.shields.io/badge/-Java-DD7700?style=for-the-badge" alt="Java">
 			<img src="https://img.shields.io/badge/HTML-FF751B?style=for-the-badge&logo=HTML5&logoColor=FFFFFF" alt="HTML">
-			<img src="https://img.shields.io/badge/CSS-00DDFF?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="CSS">
-			<img src="https://img.shields.io/badge/Javascript-FFAB00?style=for-the-badge&logo=Javascript&logoColor=FFFFFF" alt="Javascript">
+			<img src="https://img.shields.io/badge/CSS-FFAB00?style=for-the-badge&logo=CSS3&logoColor=FFFFFF" alt="CSS">
+			<img src="https://img.shields.io/badge/Javascript-FF5500?style=for-the-badge&logo=Javascript&logoColor=FFFFFF" alt="Javascript">
 		</td>
 		<td align=center>
-			<img src="https://img.shields.io/badge/Bootstrap-C635F8?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap">
+			<img src="https://img.shields.io/badge/Bootstrap-DD1100?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF" alt="Bootstrap">
 		</td>
 		<td align=center>
-			<img src="https://img.shields.io/badge/Git-FF5500?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
-			<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
-			<img src="https://img.shields.io/badge/Visual Studio Code-5555FF?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
-			<img src="https://img.shields.io/badge/IntelliJ-DD1100?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" alt="IntelliJ">
-			<img src="https://img.shields.io/badge/Slack-74D126?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack">
-			<img src="https://img.shields.io/badge/Discord-5053FF?style=for-the-badge&logo=Discord&logoColor=FFFFFF" alt="Discord">
+			<img src="https://img.shields.io/badge/Git-DD7700?style=for-the-badge&logo=Git&logoColor=FFFFFF" alt="Git">
+			<img src="https://img.shields.io/badge/GitHub-FF751B?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" alt="GitHub">
+			<img src="https://img.shields.io/badge/Visual Studio Code-FFAB00?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" alt="Visual Studio Code">
+			<img src="https://img.shields.io/badge/IntelliJ-FF5500?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" alt="IntelliJ">
+			<img src="https://img.shields.io/badge/Slack-DD1100?style=for-the-badge&logo=Slack&logoColor=FFFFFF" alt="Slack">
+			<img src="https://img.shields.io/badge/Discord-DD7700?style=for-the-badge&logo=Discord&logoColor=FFFFFF" alt="Discord">
 		</td>
 	</tr>
 </table>
@@ -61,7 +61,7 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 
 <div align=center>
 	</a>
-	  <img src="https://komarev.com/ghpvc/?username=marialauraborges&style=for-the-badge&color=red"></a>
+	  <img src="https://komarev.com/ghpvc/?username=marialauraborges&style=for-the-badge&color=orange"></a>
 	</a>
 </div>
 
