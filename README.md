@@ -1,8 +1,8 @@
-# Welcome to My GitHub! 
+# ✨ Welcome to My GitHub! ✨
 
 Hi there! I'm Maria Laura, a former chemistry lab professional who found a new passion in the world of programming. After years working in the fascinating field of chemical analysis, I decided to embark on an exciting journey into the tech industry. 🚀
 
-I'm currently in the process of a career transition, enrolled in a Full Stack Programming Bootcamp at @CodeforAll_, combining the problem-solving mindset I developed in the lab with the endless possibilities of coding and technology. 
+I'm currently in the process of a career transition, finished a Full Stack Programming Bootcamp at @CodeforAll_, combining the problem-solving mindset I developed in the lab with the endless possibilities of coding and technology. 
 
 Here, you’ll find projects that reflect my learning, creativity, and drive to grow as a developer:
 
@@ -67,17 +67,4 @@ Here, you’ll find projects that reflect my learning, creativity, and drive to 
 
 Made with ❤️ and lots of ☕ by marialaura-b.  
 
-<!--
-**marialaura-b/marialaura-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="rainbow_strip.png">
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
