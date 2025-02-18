@@ -1,4 +1,4 @@
-# ✨ Welcome to My GitHub! ✨
+# Welcome to My GitHub! ✨
 
 Hi there! I'm Maria Laura, a former chemistry lab professional who found a new passion in the world of programming. After years working in the fascinating field of chemical analysis, I decided to embark on an exciting journey into the tech industry. 🚀
 
